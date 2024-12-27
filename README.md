@@ -1,30 +1,32 @@
 
 
 # **Airlines AI Assistant** 
-– a cutting-edge business application harnessing the power of Generative AI and Multimodal Models to transform airline customer experience.
+A cutting-edge business application harnessing the power of Generative AI and Multimodal Models to transform airline customer experience.
 
 ## **Important Features of Airline AI Assistant**
 
 🚀 Key Highlights:
+
 ✅ Smart Flight Booking: Real-time availability, seamless ticket generation, and automated seat assignment.
+
 ✅ Destination Visuals: AI-generated destination images for enhanced customer engagement. 🖼️
+
 ✅ Interactive Chat: Polished Gradio-powered conversations with optional text-to-speech. 💬🔊
+
 ✅ Business-Driven Insights: Auto-generated booking summaries for streamlined operations. 📊
+
 ✅ Error-Free Experience: Robust validations and user-friendly responses. 🛡️
 
 ### **Results as GIFs:**
 
 1. **Destination Image Generation**:
-   - A real-time generation of a pop-art-style destination image based on the user's input.
-   
-  <img src="media/gen_image.gif" alt="Generating image of destination" width="350" height="auto">
+<img src="media/gen_image.gif" alt="Generating image of destination" width="auto" height="auto">
+
 2. **AI Airline Assistance Demo**:
-   - A walkthrough of booking a flight, showcasing the step-by-step process and interactive chat interface.
-   <img src="media/simple.gif" alt="Intreactive chat for booking tickets" width="350" height="auto">
+<img src="media/simple.gif" alt="Intreactive chat for booking tickets" width="auto" height="auto">
 
 3. **Summary Report Generation**:
-   - A GIF demonstrating the creation of a `summary_report.txt` file summarizing all bookings.
-   <img src="media/summ.gif" alt="Generating summary of all tickets" width="350" height="auto">
+<img src="media/summ.gif" alt="Generating summary of all tickets" width="auto" height="auto">
 
 ### ✈️ **Flight Availability**
 - Check available flights to a destination with:
