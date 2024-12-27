@@ -1,4 +1,30 @@
-# **Important Features of Airline AI Assistant**
+
+
+# **Airlines AI Assistant** 
+– a cutting-edge business application harnessing the power of Generative AI and Multimodal Models to transform airline customer experience.
+
+## **Important Features of Airline AI Assistant**
+
+🚀 Key Highlights:
+✅ Smart Flight Booking: Real-time availability, seamless ticket generation, and automated seat assignment.
+✅ Destination Visuals: AI-generated destination images for enhanced customer engagement. 🖼️
+✅ Interactive Chat: Polished Gradio-powered conversations with optional text-to-speech. 💬🔊
+✅ Business-Driven Insights: Auto-generated booking summaries for streamlined operations. 📊
+✅ Error-Free Experience: Robust validations and user-friendly responses. 🛡️
+
+### **Results as GIFs:**
+
+1. **Destination Image Generation**:
+   - A real-time generation of a pop-art-style destination image based on the user's input.
+   
+  <img src="media/gen_image.gif" alt="Generating image of destination" width="350" height="auto">
+2. **AI Airline Assistance Demo**:
+   - A walkthrough of booking a flight, showcasing the step-by-step process and interactive chat interface.
+   <img src="media/simple.gif" alt="Intreactive chat for booking tickets" width="350" height="auto">
+
+3. **Summary Report Generation**:
+   - A GIF demonstrating the creation of a `summary_report.txt` file summarizing all bookings.
+   <img src="media/summ.gif" alt="Generating summary of all tickets" width="350" height="auto">
 
 ### ✈️ **Flight Availability**
 - Check available flights to a destination with:
@@ -13,13 +39,13 @@
 - Ensures source and destination are not the same.
 
 ### 🌛 **Ticket Generation**
-- Creates a unique ticket file: `firstName_lastName_bookingNumber.txt`.
+- Creates a unique ticket file: firstName_lastName_bookingNumber.txt.
 - Ticket includes:
   - Passenger details
   - Flight details (airline, time, price, seat number)
 
 ### 📊 **Generate Summary Report**
-- Summarizes all bookings into a single file: `summary_report.txt`.
+- Summarizes all bookings into a single file: summary_report.txt.
 - Includes all flight and passenger details for review or administration.
 
 ### 🪑 **Automated Seat Assignment**
@@ -37,10 +63,17 @@
   - Generating reports
 - Easily extensible for future features.
 
+### 🖼️ **Destination Image Generation**
+- Generates a pop-art-style image of the user's destination city using AI.
+- Images are displayed in real-time for enhanced user experience.
+- Triggered when booking a flight or requesting a destination-specific image.
+
+### 🔊 **Text-to-Speech (TTS) Support**
+- Converts the assistant's responses into speech for accessibility.
+- Offers an optional TTS feature for audio playback of replies.
+
 ### 🛡️ **Error Handling**
 - Validates user inputs and prevents invalid bookings.
 - Graceful error messages for smooth user experience.
 
 ---
-
-These features ensure a seamless, user-friendly experience while booking flights or managing ticket details!
